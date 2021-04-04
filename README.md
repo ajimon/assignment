@@ -16,11 +16,16 @@ Read assignment instructions provided in pdf file.
 	Update project :  http://localhost:8080/v1/projects/{1}
 
 #Run test cases
+
 	a) open terminal
 	b) mvn test
+	
 #SpotBugs
+
 	mvn spotbugs:check
+	
 #CheckStyle
+
 	mvn checkstyle:check	
 	
  
